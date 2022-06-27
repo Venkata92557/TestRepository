@@ -11,7 +11,7 @@ package com.mycompany.helloworld;
  */
 public class HelloWorld {
     //Testing
-    //test1
+    //test2
     public void helloWorld(){
         System.out.println("Hello World!");
     }

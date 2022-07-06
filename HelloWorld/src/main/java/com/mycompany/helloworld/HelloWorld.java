@@ -11,7 +11,6 @@ package com.mycompany.helloworld;
  */
 public class HelloWorld {
     //Testing
-    //testing email notification
     public void helloWorld(){
         System.out.println("Hello World!");
     }

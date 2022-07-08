@@ -1,6 +1,0 @@
-helloworld:
-    image: "helloworld/helloworld:latest"
-    ports:
-     - "8083:8083"
-
-

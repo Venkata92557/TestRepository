@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-ARG JAR_FILE=target/find-links.jar
+ARG JAR_FILE=target/docker-app.jar
 ARG JAR_LIB_FILE=target/lib/
 
 # cd /usr/local/runme

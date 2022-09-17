@@ -40,7 +40,8 @@
 
     <build>
 
-        <finalName>find-links</finalName>
+        <!--<finalName>find-links</finalName>-->
+        <finalName>docker-app</finalName>
 
         <plugins>
 
